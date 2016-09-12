@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
+https://github.com/sindunarasimhan/Codepath_TipCalculator/blob/master/Video_Walkthrough_Tip_Calc.gif
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
